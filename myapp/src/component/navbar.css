@@ -1,0 +1,31 @@
+.navbar{
+    height: 40px;
+    width: 100%;
+    background-color:#2c3d83;
+}
+.navbar h5{
+    position: absolute;
+    top: -10px;
+    margin-left:20px;
+    color: white;
+}
+.navbar span a{
+    margin-left: 590px;
+    position: absolute;
+    top: 0px;
+    color: white;
+}
+.imgtag{
+    height: 160px;
+    margin-right:900px;
+}
+.imgtag img{
+    height: 90px;
+   
+    
+}
+.img2{
+ margin-left: 1200px;
+ position: absolute;
+ top: 40px;
+}
